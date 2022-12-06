@@ -1,0 +1,75 @@
+{
+	"version": "https://jsonfeed.org/version/1",
+	"title": "Nelson Pecora",
+	"icon": "https://micro.blog/nelsonpecora/avatar.jpg",
+	"home_page_url": "https://blog.nelson.codes/",
+	"feed_url": "https://blog.nelson.codes/feed.json",
+	"items": [
+		
+			{
+				"id": "http://nelsonpecora.micro.blog/2022/12/03/oh-neat-i.html",
+				
+				"content_html": "<p>Oh neat, I can send my thoughts to everywhere my personality has instantiated itself. Time to go to bed.</p>\n",
+				"content_text": "Oh neat, I can send my thoughts to everywhere my personality has instantiated itself. Time to go to bed.\n",
+				"date_published": "2022-12-03T00:10:10-05:00",
+				"url": "https://blog.nelson.codes/2022/12/03/oh-neat-i.html"
+			},
+			{
+				"id": "http://nelsonpecora.micro.blog/2022/12/02/just-a-cool.html",
+				"title": "Just a Cool Pic",
+				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_text": "<img src=\"uploads/2022/942395da29.jpg\" width=\"398\" height=\"600\" alt=\"\">\n",
+				"date_published": "2022-12-02T23:24:32-05:00",
+				"url": "https://blog.nelson.codes/2022/12/02/just-a-cool.html",
+				"tags": ["photo"]
+			},
+			{
+				"id": "http://nelsonpecora.micro.blog/2022/12/02/writing-python-for.html",
+				
+				"content_html": "<p>Writing python for the first time in months and my code is deeply embarassing 😰</p>\n",
+				"content_text": "Writing python for the first time in months and my code is deeply embarassing 😰\n",
+				"date_published": "2022-12-02T23:10:20-05:00",
+				"url": "https://blog.nelson.codes/2022/12/02/writing-python-for.html"
+			},
+			{
+				"id": "http://nelsonpecora.micro.blog/2022/12/02/just-clicked-a.html",
+				
+				"content_html": "<p>Just clicked a twitter link and noticed I had a bunch of notifications, including this one. RIP to a website I&rsquo;ve been on for almost half my life 😓</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Just clicked a twitter link and noticed I had a bunch of notifications, including this one. RIP to a website I've been on for almost half my life 😓\n\n<img src=\"uploads/2022/0e3d73be10.png\" width=\"588\" height=\"568\" alt=\"\">\n",
+				"date_published": "2022-12-02T19:08:53-05:00",
+				"url": "https://blog.nelson.codes/2022/12/02/just-clicked-a.html"
+			},
+			{
+				"id": "http://nelsonpecora.micro.blog/2022/12/02/on-very-similar.html",
+				
+				"content_html": "<p>On very similar lines, this is a pretty good rule to live by: <a href=\"https://www.jwz.org/blog/2022/11/psa-do-not-use-services-that-hate-the-internet/\">www.jwz.org/blog/2022&hellip;</a></p>\n",
+				"content_text": "On very similar lines, this is a pretty good rule to live by: [www.jwz.org/blog/2022...](https://www.jwz.org/blog/2022/11/psa-do-not-use-services-that-hate-the-internet/)\n",
+				"date_published": "2022-12-02T11:20:21-05:00",
+				"url": "https://blog.nelson.codes/2022/12/02/on-very-similar.html"
+			},
+			{
+				"id": "http://nelsonpecora.micro.blog/2022/12/02/so-i-was.html",
+				
+				"content_html": "<p>So I was looking at crossposting, since I still have a few friends on various social networks that I&rsquo;d like to keep in touch with, and it turns out Instagram doesn&rsquo;t let you <em>create posts</em> via their API. Like, at all (unless you have a business account). Seems wild, no?</p>\n",
+				"content_text": "So I was looking at crossposting, since I still have a few friends on various social networks that I'd like to keep in touch with, and it turns out Instagram doesn't let you _create posts_ via their API. Like, at all (unless you have a business account). Seems wild, no?\n",
+				"date_published": "2022-12-02T10:30:03-05:00",
+				"url": "https://blog.nelson.codes/2022/12/02/so-i-was.html"
+			},
+			{
+				"id": "http://nelsonpecora.micro.blog/2022/11/30/what-genre-of.html",
+				
+				"content_html": "<p>What genre of music is the most &ldquo;goblincore&rdquo;? Asking for my coworkers</p>\n",
+				"content_text": "What genre of music is the most \"goblincore\"? Asking for my coworkers\n",
+				"date_published": "2022-11-30T17:10:17-05:00",
+				"url": "https://blog.nelson.codes/2022/11/30/what-genre-of.html"
+			},
+			{
+				"id": "http://nelsonpecora.micro.blog/2022/11/29/there-we-go.html",
+				
+				"content_html": "<p>There we go, I think it&rsquo;s <a href=\"https://blog.nelson.codes\">pretty now</a></p>\n",
+				"content_text": "There we go, I think it's [pretty now](https://blog.nelson.codes)\n",
+				"date_published": "2022-11-29T19:10:20-05:00",
+				"url": "https://blog.nelson.codes/2022/11/29/there-we-go.html"
+			}
+	]
+}
