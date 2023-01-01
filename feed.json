@@ -7,6 +7,22 @@
 	"items": [
 		
 			{
+				"id": "http://nelsonpecora.micro.blog/2023/01/01/happy-new-year.html",
+				
+				"content_html": "<p>Happy new year! (source: <a href=\"https://at.tumblr.com/a/key_live_loIM22jCfY1c0N7G2HnBDcmjDCpTeypJ\">https://at.tumblr.com/a/key_live_loIM22jCfY1c0N7G2HnBDcmjDCpTeypJ</a>)</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Happy new year! (source: https://at.tumblr.com/a/key_live_loIM22jCfY1c0N7G2HnBDcmjDCpTeypJ)\n\n<img src=\"uploads/2023/00239f4f7c.jpg\" width=\"600\" height=\"337\" alt=\"\">\n",
+				"date_published": "2023-01-01T01:25:34-05:00",
+				"url": "https://blog.nelson.codes/2023/01/01/happy-new-year.html"
+			},
+			{
+				"id": "http://nelsonpecora.micro.blog/2022/12/11/oh-no-the.html",
+				
+				"content_html": "<p>Oh no, the note taking app I&rsquo;ve been using for a year recently took VC money, so I&rsquo;m looking around for a replacement (and wandering the apartment muttering &ldquo;zettelkasten&rdquo; under my breath)</p>\n",
+				"content_text": "Oh no, the note taking app I've been using for a year recently took VC money, so I'm looking around for a replacement (and wandering the apartment muttering \"zettelkasten\" under my breath)\n",
+				"date_published": "2022-12-11T23:11:30-05:00",
+				"url": "https://blog.nelson.codes/2022/12/11/oh-no-the.html"
+			},
+			{
 				"id": "http://nelsonpecora.micro.blog/2022/12/11/having-finally-just.html",
 				
 				"content_html": "<p>Having finally just watched Fast and the Furious, I&rsquo;d be shocked if REDLINE (the anime from 2009) wasn&rsquo;t directly inspired by it</p>\n",
@@ -43,7 +59,7 @@
 				"id": "http://nelsonpecora.micro.blog/2022/12/02/just-clicked-a.html",
 				
 				"content_html": "<p>Just clicked a twitter link and noticed I had a bunch of notifications, including this one. RIP to a website I&rsquo;ve been on for almost half my life 😓</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Just clicked a twitter link and noticed I had a bunch of notifications, including this one. RIP to a website I've been on for almost half my life 😓\n\n<img src=\"uploads/2022/0e3d73be10.png\" width=\"588\" height=\"568\" alt=\"\">\n",
+				"content_text": "Just clicked a twitter link and noticed I had a bunch of notifications, including this one. RIP to a website I've been on for almost half my life 😓\n\n<img src=\"https://blog.nelson.codes/uploads/2022/0e3d73be10.png\" width=\"588\" height=\"568\" alt=\"\">\n",
 				"date_published": "2022-12-02T19:08:53-05:00",
 				"url": "https://blog.nelson.codes/2022/12/02/just-clicked-a.html"
 			},
