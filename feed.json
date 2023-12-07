@@ -7,6 +7,22 @@
 	"items": [
 		
 			{
+				"id": "http://nelsonpecora.micro.blog/2023/12/07/professionalism-is-just.html",
+				
+				"content_html": "<p>&ldquo;professionalism&rdquo; is just sending &ldquo;sounds good, thanks&rdquo; slack messages back and forth until one of you dies</p>\n",
+				"content_text": "\"professionalism\" is just sending \"sounds good, thanks\" slack messages back and forth until one of you dies\n",
+				"date_published": "2023-12-07T16:52:06-05:00",
+				"url": "https://blog.nelson.codes/2023/12/07/professionalism-is-just.html"
+			},
+			{
+				"id": "http://nelsonpecora.micro.blog/2023/11/20/so-kitchen-nightmares.html",
+				
+				"content_html": "<p>So Kitchen Nightmares is back and one of the restaurants is a place I went to LAST WEEK.</p>\n",
+				"content_text": "So Kitchen Nightmares is back and one of the restaurants is a place I went to LAST WEEK.\n",
+				"date_published": "2023-11-20T22:23:51-05:00",
+				"url": "https://blog.nelson.codes/2023/11/20/so-kitchen-nightmares.html"
+			},
+			{
 				"id": "http://nelsonpecora.micro.blog/2023/11/18/whats-up-with.html",
 				
 				"content_html": "<p>What&rsquo;s up with all the fireworks in Brooklyn right now?</p>\n",
@@ -34,7 +50,7 @@
 				"id": "http://nelsonpecora.micro.blog/2023/05/13/variety-shows-are.html",
 				
 				"content_html": "<p>Variety shows are getting weird</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Variety shows are getting weird\n\n<img src=\"uploads/2023/54c7011648.jpg\" width=\"600\" height=\"363\" alt=\"\">\n",
+				"content_text": "Variety shows are getting weird\n\n<img src=\"https://cdn.uploads.micro.blog/92948/2023/54c7011648.jpg\" width=\"600\" height=\"363\" alt=\"\">\n",
 				"date_published": "2023-05-13T20:26:26-05:00",
 				"url": "https://blog.nelson.codes/2023/05/13/variety-shows-are.html"
 			},
@@ -42,7 +58,7 @@
 				"id": "http://nelsonpecora.micro.blog/2023/05/12/200441.html",
 				
 				"content_html": "<p>大阪城</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "大阪城\n\n<img src=\"uploads/2023/f8da7fd784.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
+				"content_text": "大阪城\n\n<img src=\"https://cdn.uploads.micro.blog/92948/2023/f8da7fd784.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
 				"date_published": "2023-05-12T20:04:41-05:00",
 				"url": "https://blog.nelson.codes/2023/05/12/200441.html"
 			},
