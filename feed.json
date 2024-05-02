@@ -7,11 +7,35 @@
 	"items": [
 		
 			{
+				"id": "http://nelsonpecora.micro.blog/2024/05/02/ive-been-spouting.html",
+				
+				"content_html": "<p>I&rsquo;ve been spouting off conspiracy theories about the lack of 3-bedroom apartments in NYC for years, so I&rsquo;m glad to see all my worst fears have been confirmed <a href=\"https://www.curbed.com/article/three-bedroom-apartment-nyc-shortage.html\">www.curbed.com/article/t&hellip;</a></p>\n",
+				"content_text": "I've been spouting off conspiracy theories about the lack of 3-bedroom apartments in NYC for years, so I'm glad to see all my worst fears have been confirmed [www.curbed.com/article/t...](https://www.curbed.com/article/three-bedroom-apartment-nyc-shortage.html)\n",
+				"date_published": "2024-05-02T14:11:02-04:00",
+				"url": "https://blog.nelson.codes/2024/05/02/ive-been-spouting.html"
+			},
+			{
+				"id": "http://nelsonpecora.micro.blog/2023/12/09/so-i-thought.html",
+				
+				"content_html": "<p>So I thought I’d try out the native iOS keyboard, and am I going insane or can you not swipe-type quite a lot of words? Murder, porn, abortion (!!), suicide, and a few other words simply don’t get recognized</p>\n",
+				"content_text": "So I thought I’d try out the native iOS keyboard, and am I going insane or can you not swipe-type quite a lot of words? Murder, porn, abortion (!!), suicide, and a few other words simply don’t get recognized\n",
+				"date_published": "2023-12-09T21:53:24-04:00",
+				"url": "https://blog.nelson.codes/2023/12/09/so-i-thought.html"
+			},
+			{
+				"id": "http://nelsonpecora.micro.blog/2023/12/07/success-i-was.html",
+				
+				"content_html": "<p>SUCCESS: I was able to clear half the items on my 20-item-long todo list today!</p>\n<p>Now I only have <em>checks list</em> 20 items left!</p>\n",
+				"content_text": "SUCCESS: I was able to clear half the items on my 20-item-long todo list today!\n\nNow I only have *checks list* 20 items left!\n",
+				"date_published": "2023-12-07T18:24:29-04:00",
+				"url": "https://blog.nelson.codes/2023/12/07/success-i-was.html"
+			},
+			{
 				"id": "http://nelsonpecora.micro.blog/2023/12/07/professionalism-is-just.html",
 				
 				"content_html": "<p>&ldquo;professionalism&rdquo; is just sending &ldquo;sounds good, thanks&rdquo; slack messages back and forth until one of you dies</p>\n",
 				"content_text": "\"professionalism\" is just sending \"sounds good, thanks\" slack messages back and forth until one of you dies\n",
-				"date_published": "2023-12-07T16:52:06-05:00",
+				"date_published": "2023-12-07T17:52:06-04:00",
 				"url": "https://blog.nelson.codes/2023/12/07/professionalism-is-just.html"
 			},
 			{
@@ -19,7 +43,7 @@
 				
 				"content_html": "<p>So Kitchen Nightmares is back and one of the restaurants is a place I went to LAST WEEK.</p>\n",
 				"content_text": "So Kitchen Nightmares is back and one of the restaurants is a place I went to LAST WEEK.\n",
-				"date_published": "2023-11-20T22:23:51-05:00",
+				"date_published": "2023-11-20T23:23:51-04:00",
 				"url": "https://blog.nelson.codes/2023/11/20/so-kitchen-nightmares.html"
 			},
 			{
@@ -27,7 +51,7 @@
 				
 				"content_html": "<p>What&rsquo;s up with all the fireworks in Brooklyn right now?</p>\n",
 				"content_text": "What's up with all the fireworks in Brooklyn right now?\n",
-				"date_published": "2023-11-18T22:37:05-05:00",
+				"date_published": "2023-11-18T23:37:05-04:00",
 				"url": "https://blog.nelson.codes/2023/11/18/whats-up-with.html"
 			},
 			{
@@ -35,15 +59,15 @@
 				
 				"content_html": "<p>It&rsquo;s that time of year again where I need to tell myself that I DO NOT need to rethink my entire notetaking process. NO, STOP GOOGLING ZETTELKASTEN!</p>\n",
 				"content_text": "It's that time of year again where I need to tell myself that I DO NOT need to rethink my entire notetaking process. NO, STOP GOOGLING ZETTELKASTEN!\n",
-				"date_published": "2023-09-28T08:02:05-05:00",
+				"date_published": "2023-09-28T09:02:05-04:00",
 				"url": "https://blog.nelson.codes/2023/09/28/its-that-time.html"
 			},
 			{
 				"id": "http://nelsonpecora.micro.blog/2023/06/09/monthly-rents-in.html",
 				
 				"content_html": "<p>Monthly rents in Brooklyn are extremely cool and good</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Monthly rents in Brooklyn are extremely cool and good\n\n<img src=\"uploads/2023/eaf3c7a60f.png\" width=\"600\" height=\"474\" alt=\"\">\n",
-				"date_published": "2023-06-09T17:36:02-05:00",
+				"content_text": "Monthly rents in Brooklyn are extremely cool and good\n\n<img src=\"https://cdn.uploads.micro.blog/92948/2023/eaf3c7a60f.png\" width=\"600\" height=\"474\" alt=\"\">\n",
+				"date_published": "2023-06-09T18:36:02-04:00",
 				"url": "https://blog.nelson.codes/2023/06/09/monthly-rents-in.html"
 			},
 			{
@@ -51,7 +75,7 @@
 				
 				"content_html": "<p>Variety shows are getting weird</p>\n<!-- raw HTML omitted -->\n",
 				"content_text": "Variety shows are getting weird\n\n<img src=\"https://cdn.uploads.micro.blog/92948/2023/54c7011648.jpg\" width=\"600\" height=\"363\" alt=\"\">\n",
-				"date_published": "2023-05-13T20:26:26-05:00",
+				"date_published": "2023-05-13T21:26:26-04:00",
 				"url": "https://blog.nelson.codes/2023/05/13/variety-shows-are.html"
 			},
 			{
@@ -59,7 +83,7 @@
 				
 				"content_html": "<p>大阪城</p>\n<!-- raw HTML omitted -->\n",
 				"content_text": "大阪城\n\n<img src=\"https://cdn.uploads.micro.blog/92948/2023/f8da7fd784.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
-				"date_published": "2023-05-12T20:04:41-05:00",
+				"date_published": "2023-05-12T21:04:41-04:00",
 				"url": "https://blog.nelson.codes/2023/05/12/200441.html"
 			},
 			{
@@ -67,7 +91,7 @@
 				
 				"content_html": "<p>Nozomi is pretty fast, huh</p>\n<!-- raw HTML omitted -->\n",
 				"content_text": "Nozomi is pretty fast, huh\n\n<img src=\"https://cdn.uploads.micro.blog/92948/2023/d1a64f774b.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
-				"date_published": "2023-05-07T23:57:00-05:00",
+				"date_published": "2023-05-08T00:57:00-04:00",
 				"url": "https://blog.nelson.codes/2023/05/07/nozomi-is-pretty.html"
 			},
 			{
@@ -75,7 +99,7 @@
 				
 				"content_html": "<p>Through a convoluted series of events, my partner and I will be hanging out in and around Tokyo for pretty much all of May. Anybody have recommendations for stuff we shouldn&rsquo;t miss?</p>\n",
 				"content_text": "Through a convoluted series of events, my partner and I will be hanging out in and around Tokyo for pretty much all of May. Anybody have recommendations for stuff we shouldn't miss?\n",
-				"date_published": "2023-04-29T08:34:50-05:00",
+				"date_published": "2023-04-29T09:34:50-04:00",
 				"url": "https://blog.nelson.codes/2023/04/29/through-a-convoluted.html"
 			},
 			{
@@ -83,7 +107,7 @@
 				
 				"content_html": "<p>Ed Balls</p>\n",
 				"content_text": "Ed Balls\n",
-				"date_published": "2023-04-28T07:40:37-05:00",
+				"date_published": "2023-04-28T08:40:37-04:00",
 				"url": "https://blog.nelson.codes/2023/04/28/ed-balls.html"
 			},
 			{
@@ -91,7 +115,7 @@
 				
 				"content_html": "<p>Strange tidings from the New York City rental market <a href=\"https://www.curbed.com/2023/01/nyc-real-estate-covid-more-apartments-higher-rent.html\">www.curbed.com/2023/01/n&hellip;</a></p>\n",
 				"content_text": "Strange tidings from the New York City rental market [www.curbed.com/2023/01/n...](https://www.curbed.com/2023/01/nyc-real-estate-covid-more-apartments-higher-rent.html)\n",
-				"date_published": "2023-01-28T09:55:42-05:00",
+				"date_published": "2023-01-28T10:55:42-04:00",
 				"url": "https://blog.nelson.codes/2023/01/28/strange-tidings-from.html"
 			},
 			{
@@ -99,7 +123,7 @@
 				
 				"content_html": "<p>The king is dead, long live the king <a href=\"https://tapbots.com/tweetbot/\">tapbots.com/tweetbot/</a></p>\n",
 				"content_text": "The king is dead, long live the king [tapbots.com/tweetbot/](https://tapbots.com/tweetbot/)\n",
-				"date_published": "2023-01-20T14:43:39-05:00",
+				"date_published": "2023-01-20T15:43:39-04:00",
 				"url": "https://blog.nelson.codes/2023/01/20/the-king-is.html"
 			},
 			{
@@ -107,7 +131,7 @@
 				
 				"content_html": "<p>Happy new year! (source: <a href=\"https://at.tumblr.com/a/key_live_loIM22jCfY1c0N7G2HnBDcmjDCpTeypJ\">https://at.tumblr.com/a/key_live_loIM22jCfY1c0N7G2HnBDcmjDCpTeypJ</a>)</p>\n<!-- raw HTML omitted -->\n",
 				"content_text": "Happy new year! (source: https://at.tumblr.com/a/key_live_loIM22jCfY1c0N7G2HnBDcmjDCpTeypJ)\n\n<img src=\"https://cdn.uploads.micro.blog/92948/2023/00239f4f7c.jpg\" width=\"600\" height=\"337\" alt=\"\">\n",
-				"date_published": "2023-01-01T01:25:34-05:00",
+				"date_published": "2023-01-01T02:25:34-04:00",
 				"url": "https://blog.nelson.codes/2023/01/01/happy-new-year.html"
 			},
 			{
@@ -115,7 +139,7 @@
 				
 				"content_html": "<p>Oh no, the note taking app I&rsquo;ve been using for a year recently took VC money, so I&rsquo;m looking around for a replacement (and wandering the apartment muttering &ldquo;zettelkasten&rdquo; under my breath)</p>\n",
 				"content_text": "Oh no, the note taking app I've been using for a year recently took VC money, so I'm looking around for a replacement (and wandering the apartment muttering \"zettelkasten\" under my breath)\n",
-				"date_published": "2022-12-11T23:11:30-05:00",
+				"date_published": "2022-12-12T00:11:30-04:00",
 				"url": "https://blog.nelson.codes/2022/12/11/oh-no-the.html"
 			},
 			{
@@ -123,7 +147,7 @@
 				
 				"content_html": "<p>Having finally just watched Fast and the Furious, I&rsquo;d be shocked if REDLINE (the anime from 2009) wasn&rsquo;t directly inspired by it</p>\n",
 				"content_text": "Having finally just watched Fast and the Furious, I'd be shocked if REDLINE (the anime from 2009) wasn't directly inspired by it\n",
-				"date_published": "2022-12-11T23:09:53-05:00",
+				"date_published": "2022-12-12T00:09:53-04:00",
 				"url": "https://blog.nelson.codes/2022/12/11/having-finally-just.html"
 			},
 			{
@@ -131,7 +155,7 @@
 				
 				"content_html": "<p>Oh neat, I can send my thoughts to everywhere my personality has instantiated itself. Time to go to bed.</p>\n",
 				"content_text": "Oh neat, I can send my thoughts to everywhere my personality has instantiated itself. Time to go to bed.\n",
-				"date_published": "2022-12-03T00:10:10-05:00",
+				"date_published": "2022-12-03T01:10:10-04:00",
 				"url": "https://blog.nelson.codes/2022/12/03/oh-neat-i.html"
 			},
 			{
@@ -139,7 +163,7 @@
 				"title": "Just a Cool Pic",
 				"content_html": "<!-- raw HTML omitted -->\n",
 				"content_text": "<img src=\"https://cdn.uploads.micro.blog/92948/2022/942395da29.jpg\" width=\"398\" height=\"600\" alt=\"\">\n",
-				"date_published": "2022-12-02T23:24:32-05:00",
+				"date_published": "2022-12-03T00:24:32-04:00",
 				"url": "https://blog.nelson.codes/2022/12/02/just-a-cool.html",
 				"tags": ["photo"]
 			},
@@ -148,7 +172,7 @@
 				
 				"content_html": "<p>Writing python for the first time in months and my code is deeply embarassing 😰</p>\n",
 				"content_text": "Writing python for the first time in months and my code is deeply embarassing 😰\n",
-				"date_published": "2022-12-02T23:10:20-05:00",
+				"date_published": "2022-12-03T00:10:20-04:00",
 				"url": "https://blog.nelson.codes/2022/12/02/writing-python-for.html"
 			},
 			{
@@ -156,7 +180,7 @@
 				
 				"content_html": "<p>Just clicked a twitter link and noticed I had a bunch of notifications, including this one. RIP to a website I&rsquo;ve been on for almost half my life 😓</p>\n<!-- raw HTML omitted -->\n",
 				"content_text": "Just clicked a twitter link and noticed I had a bunch of notifications, including this one. RIP to a website I've been on for almost half my life 😓\n\n<img src=\"https://cdn.uploads.micro.blog/92948/2022/0e3d73be10.png\" width=\"588\" height=\"568\" alt=\"\">\n",
-				"date_published": "2022-12-02T19:08:53-05:00",
+				"date_published": "2022-12-02T20:08:53-04:00",
 				"url": "https://blog.nelson.codes/2022/12/02/just-clicked-a.html"
 			},
 			{
@@ -164,7 +188,7 @@
 				
 				"content_html": "<p>On very similar lines, this is a pretty good rule to live by: <a href=\"https://www.jwz.org/blog/2022/11/psa-do-not-use-services-that-hate-the-internet/\">www.jwz.org/blog/2022&hellip;</a></p>\n",
 				"content_text": "On very similar lines, this is a pretty good rule to live by: [www.jwz.org/blog/2022...](https://www.jwz.org/blog/2022/11/psa-do-not-use-services-that-hate-the-internet/)\n",
-				"date_published": "2022-12-02T11:20:21-05:00",
+				"date_published": "2022-12-02T12:20:21-04:00",
 				"url": "https://blog.nelson.codes/2022/12/02/on-very-similar.html"
 			},
 			{
@@ -172,7 +196,7 @@
 				
 				"content_html": "<p>So I was looking at crossposting, since I still have a few friends on various social networks that I&rsquo;d like to keep in touch with, and it turns out Instagram doesn&rsquo;t let you <em>create posts</em> via their API. Like, at all (unless you have a business account). Seems wild, no?</p>\n",
 				"content_text": "So I was looking at crossposting, since I still have a few friends on various social networks that I'd like to keep in touch with, and it turns out Instagram doesn't let you _create posts_ via their API. Like, at all (unless you have a business account). Seems wild, no?\n",
-				"date_published": "2022-12-02T10:30:03-05:00",
+				"date_published": "2022-12-02T11:30:03-04:00",
 				"url": "https://blog.nelson.codes/2022/12/02/so-i-was.html"
 			},
 			{
@@ -180,7 +204,7 @@
 				
 				"content_html": "<p>What genre of music is the most &ldquo;goblincore&rdquo;? Asking for my coworkers</p>\n",
 				"content_text": "What genre of music is the most \"goblincore\"? Asking for my coworkers\n",
-				"date_published": "2022-11-30T17:10:17-05:00",
+				"date_published": "2022-11-30T18:10:17-04:00",
 				"url": "https://blog.nelson.codes/2022/11/30/what-genre-of.html"
 			},
 			{
@@ -188,7 +212,7 @@
 				
 				"content_html": "<p>There we go, I think it&rsquo;s <a href=\"https://blog.nelson.codes\">pretty now</a></p>\n",
 				"content_text": "There we go, I think it's [pretty now](https://blog.nelson.codes)\n",
-				"date_published": "2022-11-29T19:10:20-05:00",
+				"date_published": "2022-11-29T20:10:20-04:00",
 				"url": "https://blog.nelson.codes/2022/11/29/there-we-go.html"
 			}
 	]
