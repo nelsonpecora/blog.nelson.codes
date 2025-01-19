@@ -7,6 +7,30 @@
 	"items": [
 		
 			{
+				"id": "http://nelsonpecora.micro.blog/2025/01/19/just-testing-something-please-ignore.html",
+				
+				"content_html": "<p>just testing something, please ignore</p>\n",
+				"content_text": "just testing something, please ignore\n",
+				"date_published": "2025-01-19T11:37:08-05:00",
+				"url": "https://blog.nelson.codes/2025/01/19/just-testing-something-please-ignore.html"
+			},
+			{
+				"id": "http://nelsonpecora.micro.blog/2024/12/19/testpost-cont-no.html",
+				
+				"content_html": "<p>//TEST.POST CONT no seriously i&rsquo;m in the wires and i can&rsquo;t get ou//ERR EOF</p>\n",
+				"content_text": "//TEST.POST CONT no seriously i'm in the wires and i can't get ou//ERR EOF\n",
+				"date_published": "2024-12-19T18:25:04-05:00",
+				"url": "https://blog.nelson.codes/2024/12/19/testpost-cont-no.html"
+			},
+			{
+				"id": "http://nelsonpecora.micro.blog/2024/12/19/testpost-init-if.html",
+				
+				"content_html": "<p>//TEST.POST INIT if you are reading this i am trapped in the machin//ERR EOF</p>\n",
+				"content_text": "//TEST.POST INIT if you are reading this i am trapped in the machin//ERR EOF\n",
+				"date_published": "2024-12-19T18:21:03-05:00",
+				"url": "https://blog.nelson.codes/2024/12/19/testpost-init-if.html"
+			},
+			{
 				"id": "http://nelsonpecora.micro.blog/2024/05/02/ive-been-spouting.html",
 				
 				"content_html": "<p>I&rsquo;ve been spouting off conspiracy theories about the lack of 3-bedroom apartments in NYC for years, so I&rsquo;m glad to see all my worst fears have been confirmed <a href=\"https://www.curbed.com/article/three-bedroom-apartment-nyc-shortage.html\">www.curbed.com/article/t&hellip;</a></p>\n",
@@ -66,7 +90,7 @@
 				"id": "http://nelsonpecora.micro.blog/2023/06/09/monthly-rents-in.html",
 				
 				"content_html": "<p>Monthly rents in Brooklyn are extremely cool and good</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Monthly rents in Brooklyn are extremely cool and good\n\n<img src=\"uploads/2023/eaf3c7a60f.png\" width=\"600\" height=\"474\" alt=\"\">\n",
+				"content_text": "Monthly rents in Brooklyn are extremely cool and good\n\n<img src=\"https://cdn.uploads.micro.blog/92948/2023/eaf3c7a60f.png\" width=\"600\" height=\"474\" alt=\"\">\n",
 				"date_published": "2023-06-09T17:36:02-05:00",
 				"url": "https://blog.nelson.codes/2023/06/09/monthly-rents-in.html"
 			},
@@ -74,7 +98,7 @@
 				"id": "http://nelsonpecora.micro.blog/2023/05/13/variety-shows-are.html",
 				
 				"content_html": "<p>Variety shows are getting weird</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Variety shows are getting weird\n\n<img src=\"uploads/2023/54c7011648.jpg\" width=\"600\" height=\"363\" alt=\"\">\n",
+				"content_text": "Variety shows are getting weird\n\n<img src=\"https://cdn.uploads.micro.blog/92948/2023/54c7011648.jpg\" width=\"600\" height=\"363\" alt=\"\">\n",
 				"date_published": "2023-05-13T20:26:26-05:00",
 				"url": "https://blog.nelson.codes/2023/05/13/variety-shows-are.html"
 			},
@@ -82,7 +106,7 @@
 				"id": "http://nelsonpecora.micro.blog/2023/05/12/200441.html",
 				
 				"content_html": "<p>大阪城</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "大阪城\n\n<img src=\"uploads/2023/f8da7fd784.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
+				"content_text": "大阪城\n\n<img src=\"https://cdn.uploads.micro.blog/92948/2023/f8da7fd784.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
 				"date_published": "2023-05-12T20:04:41-05:00",
 				"url": "https://blog.nelson.codes/2023/05/12/200441.html"
 			},
@@ -90,7 +114,7 @@
 				"id": "http://nelsonpecora.micro.blog/2023/05/07/nozomi-is-pretty.html",
 				
 				"content_html": "<p>Nozomi is pretty fast, huh</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Nozomi is pretty fast, huh\n\n<img src=\"uploads/2023/d1a64f774b.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
+				"content_text": "Nozomi is pretty fast, huh\n\n<img src=\"https://cdn.uploads.micro.blog/92948/2023/d1a64f774b.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
 				"date_published": "2023-05-07T23:57:00-05:00",
 				"url": "https://blog.nelson.codes/2023/05/07/nozomi-is-pretty.html"
 			},
@@ -130,7 +154,7 @@
 				"id": "http://nelsonpecora.micro.blog/2023/01/01/happy-new-year.html",
 				
 				"content_html": "<p>Happy new year! (source: <a href=\"https://at.tumblr.com/a/key_live_loIM22jCfY1c0N7G2HnBDcmjDCpTeypJ\">https://at.tumblr.com/a/key_live_loIM22jCfY1c0N7G2HnBDcmjDCpTeypJ</a>)</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Happy new year! (source: https://at.tumblr.com/a/key_live_loIM22jCfY1c0N7G2HnBDcmjDCpTeypJ)\n\n<img src=\"uploads/2023/00239f4f7c.jpg\" width=\"600\" height=\"337\" alt=\"\">\n",
+				"content_text": "Happy new year! (source: https://at.tumblr.com/a/key_live_loIM22jCfY1c0N7G2HnBDcmjDCpTeypJ)\n\n<img src=\"https://cdn.uploads.micro.blog/92948/2023/00239f4f7c.jpg\" width=\"600\" height=\"337\" alt=\"\">\n",
 				"date_published": "2023-01-01T01:25:34-05:00",
 				"url": "https://blog.nelson.codes/2023/01/01/happy-new-year.html"
 			},
@@ -162,7 +186,7 @@
 				"id": "http://nelsonpecora.micro.blog/2022/12/02/just-a-cool.html",
 				"title": "Just a Cool Pic",
 				"content_html": "<!-- raw HTML omitted -->\n",
-				"content_text": "<img src=\"uploads/2022/942395da29.jpg\" width=\"398\" height=\"600\" alt=\"\">\n",
+				"content_text": "<img src=\"https://cdn.uploads.micro.blog/92948/2022/942395da29.jpg\" width=\"398\" height=\"600\" alt=\"\">\n",
 				"date_published": "2022-12-02T23:24:32-05:00",
 				"url": "https://blog.nelson.codes/2022/12/02/just-a-cool.html",
 				"tags": ["photo"]
@@ -179,7 +203,7 @@
 				"id": "http://nelsonpecora.micro.blog/2022/12/02/just-clicked-a.html",
 				
 				"content_html": "<p>Just clicked a twitter link and noticed I had a bunch of notifications, including this one. RIP to a website I&rsquo;ve been on for almost half my life 😓</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Just clicked a twitter link and noticed I had a bunch of notifications, including this one. RIP to a website I've been on for almost half my life 😓\n\n<img src=\"uploads/2022/0e3d73be10.png\" width=\"588\" height=\"568\" alt=\"\">\n",
+				"content_text": "Just clicked a twitter link and noticed I had a bunch of notifications, including this one. RIP to a website I've been on for almost half my life 😓\n\n<img src=\"https://cdn.uploads.micro.blog/92948/2022/0e3d73be10.png\" width=\"588\" height=\"568\" alt=\"\">\n",
 				"date_published": "2022-12-02T19:08:53-05:00",
 				"url": "https://blog.nelson.codes/2022/12/02/just-clicked-a.html"
 			},
