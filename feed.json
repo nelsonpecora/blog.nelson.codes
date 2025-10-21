@@ -1,11 +1,19 @@
 {
 	"version": "https://jsonfeed.org/version/1",
 	"title": "Nelson Pecora",
-	"icon": "https://micro.blog/nelsonpecora/avatar.jpg",
+	"icon": "https://avatars.micro.blog/avatars/2022/267874.jpg",
 	"home_page_url": "https://blog.nelson.codes/",
 	"feed_url": "https://blog.nelson.codes/feed.json",
 	"items": [
 		
+			{
+				"id": "http://nelsonpecora.micro.blog/2025/10/21/big-boat.html",
+				
+				"content_html": "<p>Big boat!</p>\n<img src=\"uploads/2025/7c8f080fe7.jpg\" width=\"600\" height=\"450\" alt=\"Photo of a large, four masted sailing ship in the Yokohama harbor\">\n",
+				"content_text": "Big boat!\n\n<img src=\"uploads/2025/7c8f080fe7.jpg\" width=\"600\" height=\"450\" alt=\"Photo of a large, four masted sailing ship in the Yokohama harbor\">\n",
+				"date_published": "2025-10-21T03:15:58-04:00",
+				"url": "https://blog.nelson.codes/2025/10/21/big-boat.html"
+			},
 			{
 				"id": "http://nelsonpecora.micro.blog/2025/03/19/i-am-sick-and-tired.html",
 				
@@ -25,7 +33,7 @@
 			{
 				"id": "http://nelsonpecora.micro.blog/2025/02/24/published-a-big-article-i.html",
 				
-				"content_html": "<p>Published a big article I wrote about how martial arts (specifically iaido) use Japanese language, please enjoy!</p>\n<p>EN: <a href=\"https://www.brooklynbattodo.com/reading/2-19-2025/budo-and-modern-japanese-language\">www.brooklynbattodo.com/reading/2&hellip;</a>\nJP: <a href=\"https://www.brooklynbattodo.com/reading/2-19-2025/budo-and-modern-japanese-language\">www.brooklynbattodo.com/reading/2&hellip;</a>-nihongo</p>\n<!-- raw HTML omitted -->\n",
+				"content_html": "<p>Published a big article I wrote about how martial arts (specifically iaido) use Japanese language, please enjoy!</p>\n<p>EN: <a href=\"https://www.brooklynbattodo.com/reading/2-19-2025/budo-and-modern-japanese-language\">www.brooklynbattodo.com/reading/2&hellip;</a>\nJP: <a href=\"https://www.brooklynbattodo.com/reading/2-19-2025/budo-and-modern-japanese-language\">www.brooklynbattodo.com/reading/2&hellip;</a>-nihongo</p>\n<img src=\"uploads/2025/pexels-nadin-sh-78971847-24738516.jpg\" width=\"600\" height=\"450\" alt=\"Clean-looking picture of a corndog with mayo and ketchup sitting on a nice plate. It's relevant to the article, I promise!\">\n",
 				"content_text": "Published a big article I wrote about how martial arts (specifically iaido) use Japanese language, please enjoy!\r\n\r\n\r\nEN: [www.brooklynbattodo.com/reading/2...](https://www.brooklynbattodo.com/reading/2-19-2025/budo-and-modern-japanese-language)\r\nJP: [www.brooklynbattodo.com/reading/2...](https://www.brooklynbattodo.com/reading/2-19-2025/budo-and-modern-japanese-language)-nihongo\n\n<img src=\"uploads/2025/pexels-nadin-sh-78971847-24738516.jpg\" width=\"600\" height=\"450\" alt=\"Clean-looking picture of a corndog with mayo and ketchup sitting on a nice plate. It's relevant to the article, I promise!\">\n",
 				"date_published": "2025-02-24T20:07:09-04:00",
 				"url": "https://blog.nelson.codes/2025/02/24/published-a-big-article-i.html"
@@ -145,7 +153,7 @@
 			{
 				"id": "http://nelsonpecora.micro.blog/2023/06/09/monthly-rents-in.html",
 				
-				"content_html": "<p>Monthly rents in Brooklyn are extremely cool and good</p>\n<!-- raw HTML omitted -->\n",
+				"content_html": "<p>Monthly rents in Brooklyn are extremely cool and good</p>\n<img src=\"https://cdn.uploads.micro.blog/92948/2023/eaf3c7a60f.png\" width=\"600\" height=\"474\" alt=\"\">\n",
 				"content_text": "Monthly rents in Brooklyn are extremely cool and good\n\n<img src=\"https://cdn.uploads.micro.blog/92948/2023/eaf3c7a60f.png\" width=\"600\" height=\"474\" alt=\"\">\n",
 				"date_published": "2023-06-09T18:36:02-04:00",
 				"url": "https://blog.nelson.codes/2023/06/09/monthly-rents-in.html"
@@ -153,7 +161,7 @@
 			{
 				"id": "http://nelsonpecora.micro.blog/2023/05/13/variety-shows-are.html",
 				
-				"content_html": "<p>Variety shows are getting weird</p>\n<!-- raw HTML omitted -->\n",
+				"content_html": "<p>Variety shows are getting weird</p>\n<img src=\"https://cdn.uploads.micro.blog/92948/2023/54c7011648.jpg\" width=\"600\" height=\"363\" alt=\"\">\n",
 				"content_text": "Variety shows are getting weird\n\n<img src=\"https://cdn.uploads.micro.blog/92948/2023/54c7011648.jpg\" width=\"600\" height=\"363\" alt=\"\">\n",
 				"date_published": "2023-05-13T21:26:26-04:00",
 				"url": "https://blog.nelson.codes/2023/05/13/variety-shows-are.html"
@@ -161,7 +169,7 @@
 			{
 				"id": "http://nelsonpecora.micro.blog/2023/05/12/200441.html",
 				
-				"content_html": "<p>大阪城</p>\n<!-- raw HTML omitted -->\n",
+				"content_html": "<p>大阪城</p>\n<img src=\"https://cdn.uploads.micro.blog/92948/2023/f8da7fd784.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
 				"content_text": "大阪城\n\n<img src=\"https://cdn.uploads.micro.blog/92948/2023/f8da7fd784.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
 				"date_published": "2023-05-12T21:04:41-04:00",
 				"url": "https://blog.nelson.codes/2023/05/12/200441.html"
@@ -169,7 +177,7 @@
 			{
 				"id": "http://nelsonpecora.micro.blog/2023/05/07/nozomi-is-pretty.html",
 				
-				"content_html": "<p>Nozomi is pretty fast, huh</p>\n<!-- raw HTML omitted -->\n",
+				"content_html": "<p>Nozomi is pretty fast, huh</p>\n<img src=\"https://cdn.uploads.micro.blog/92948/2023/d1a64f774b.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
 				"content_text": "Nozomi is pretty fast, huh\n\n<img src=\"https://cdn.uploads.micro.blog/92948/2023/d1a64f774b.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
 				"date_published": "2023-05-08T00:57:00-04:00",
 				"url": "https://blog.nelson.codes/2023/05/07/nozomi-is-pretty.html"
@@ -209,7 +217,7 @@
 			{
 				"id": "http://nelsonpecora.micro.blog/2023/01/01/happy-new-year.html",
 				
-				"content_html": "<p>Happy new year! (source: <a href=\"https://at.tumblr.com/a/key_live_loIM22jCfY1c0N7G2HnBDcmjDCpTeypJ\">https://at.tumblr.com/a/key_live_loIM22jCfY1c0N7G2HnBDcmjDCpTeypJ</a>)</p>\n<!-- raw HTML omitted -->\n",
+				"content_html": "<p>Happy new year! (source: <a href=\"https://at.tumblr.com/a/key_live_loIM22jCfY1c0N7G2HnBDcmjDCpTeypJ\">https://at.tumblr.com/a/key_live_loIM22jCfY1c0N7G2HnBDcmjDCpTeypJ</a>)</p>\n<img src=\"https://cdn.uploads.micro.blog/92948/2023/00239f4f7c.jpg\" width=\"600\" height=\"337\" alt=\"\">\n",
 				"content_text": "Happy new year! (source: https://at.tumblr.com/a/key_live_loIM22jCfY1c0N7G2HnBDcmjDCpTeypJ)\n\n<img src=\"https://cdn.uploads.micro.blog/92948/2023/00239f4f7c.jpg\" width=\"600\" height=\"337\" alt=\"\">\n",
 				"date_published": "2023-01-01T02:25:34-04:00",
 				"url": "https://blog.nelson.codes/2023/01/01/happy-new-year.html"
@@ -241,7 +249,7 @@
 			{
 				"id": "http://nelsonpecora.micro.blog/2022/12/02/just-a-cool.html",
 				"title": "Just a Cool Pic",
-				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_html": "<img src=\"https://cdn.uploads.micro.blog/92948/2022/942395da29.jpg\" width=\"398\" height=\"600\" alt=\"\">\n",
 				"content_text": "<img src=\"https://cdn.uploads.micro.blog/92948/2022/942395da29.jpg\" width=\"398\" height=\"600\" alt=\"\">\n",
 				"date_published": "2022-12-03T00:24:32-04:00",
 				"url": "https://blog.nelson.codes/2022/12/02/just-a-cool.html",
@@ -258,7 +266,7 @@
 			{
 				"id": "http://nelsonpecora.micro.blog/2022/12/02/just-clicked-a.html",
 				
-				"content_html": "<p>Just clicked a twitter link and noticed I had a bunch of notifications, including this one. RIP to a website I&rsquo;ve been on for almost half my life 😓</p>\n<!-- raw HTML omitted -->\n",
+				"content_html": "<p>Just clicked a twitter link and noticed I had a bunch of notifications, including this one. RIP to a website I&rsquo;ve been on for almost half my life 😓</p>\n<img src=\"https://cdn.uploads.micro.blog/92948/2022/0e3d73be10.png\" width=\"588\" height=\"568\" alt=\"\">\n",
 				"content_text": "Just clicked a twitter link and noticed I had a bunch of notifications, including this one. RIP to a website I've been on for almost half my life 😓\n\n<img src=\"https://cdn.uploads.micro.blog/92948/2022/0e3d73be10.png\" width=\"588\" height=\"568\" alt=\"\">\n",
 				"date_published": "2022-12-02T20:08:53-04:00",
 				"url": "https://blog.nelson.codes/2022/12/02/just-clicked-a.html"
